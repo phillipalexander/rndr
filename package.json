@@ -2,7 +2,7 @@
   "name": "rndr",
   "version": "0.0.0",
   "description": "Command Line tool to Render Markdown Files",
-  "private": true,
+  "private": false,
   "bin": {
     "rndr": "./bin/rndr"
   },
